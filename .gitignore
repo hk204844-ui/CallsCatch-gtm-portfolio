@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+.cursor/
+node_modules/
+*.local.json
+.DS_Store
+Thumbs.db
+docs/images/*.png
+!docs/images/.gitkeep
