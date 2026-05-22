@@ -1,4 +1,4 @@
-# CallsCatch — Client Acquisition Automation (n8n)
+# CallsCatch — Automation (n8n)
 
 **End-to-end GTM automation** for [CallsCatch](https://callscatch.com) — 24/7 AI phone reception for Australian service businesses — built with **n8n Cloud**, **OpenAI**, **Retell AI**, and **Google Sheets** as a lightweight CRM.
 
