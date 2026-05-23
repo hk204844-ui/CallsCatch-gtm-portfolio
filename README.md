@@ -15,11 +15,11 @@
 
 ## Screenshots
 
-| Workflow overview |
+| Daily lead collection · cold email · reply handling (n8n) |
 |:---:|
-| ![CallsCatch GTM n8n automation](docs/screenshots/workflow-overview.png) |
+| ![CallsCatch GTM workflows on n8n](docs/screenshots/daily-cold-email-workflows.png) |
 
-> Add sanitized n8n canvas screenshots per workflow to `docs/screenshots/` when exporting from n8n Cloud.
+*Sanitized canvas view — credentials and sheet IDs redacted in private exports.*
 
 ## Six integrated workflows
 
