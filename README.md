@@ -13,6 +13,14 @@
 | **Role** | Workflow design, prompts, sheet schema, importable n8n JSON, ops docs |
 | **Region** | Australia / Melbourne scheduling and compliance |
 
+## Screenshots
+
+| Workflow overview |
+|:---:|
+| ![CallsCatch GTM n8n automation](docs/screenshots/workflow-overview.png) |
+
+> Add sanitized n8n canvas screenshots per workflow to `docs/screenshots/` when exporting from n8n Cloud.
+
 ## Six integrated workflows
 
 | # | Workflow | Purpose |
